@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hook
+  - Hook
+  - Player1
+  - sticker
+  - sensChecker
+  - Level
+  - Obstacle
+  - EnergyRefil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - sensChecker
+  - GroundChecker
+  - hook
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3506606237
+    locked: 0
+  - name: background2
+    uniqueID: 1615210457
+    locked: 0
+  - name: background3
+    uniqueID: 2816415661
+    locked: 0
+  - name: foreground
+    uniqueID: 3357815833
+    locked: 0
+  - name: objects
+    uniqueID: 1320786841
+    locked: 0
+  - name: player
+    uniqueID: 3267680235
+    locked: 0
